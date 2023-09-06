@@ -7,4 +7,5 @@ This project is simulated using CoppeliaSim Player (V-REP), the .ttt file is ava
 
 The big and white vehicle is simulated as a tank and controlled by user using keyboard arrow button.
 The small moving object is the UNDERDOG Robot that moves autonomously.
+
 ![ezgif-4-24a64f198a](https://github.com/nrahadi/CoppeliaSim-UNDERDOG-IED-Robot/assets/144195641/de3f2a00-1646-4c7d-b3f5-9a3e781280eb)
